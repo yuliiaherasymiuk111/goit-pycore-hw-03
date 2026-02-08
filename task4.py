@@ -29,4 +29,3 @@ def get_upcoming_birthdays(users):
             })
 
     return upcoming_birthdays
-
